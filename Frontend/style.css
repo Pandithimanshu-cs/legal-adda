@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+.card {
+  border: 1px solid gray;
+  padding: 15px;
+  margin: 10px;
+  display: inline-block;
+  width: 200px;
+}
+
+img {
+  width: 100%;
+}
